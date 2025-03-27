@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adearya/skup-ade-universitas-raharja/main/raw/images/readme-logo.jpeg" alt="Readme Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/adearya/skup-ade-universitas-raharja/main/raw/images/readme_logo.jpeg" alt="Readme Logo" width="80" height="80">
 
 <h3 align="center">title</h3>
     <p align="center">
