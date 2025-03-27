@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/adearya/skup-ade-universitas-raharja/main/raw/images/readme_logo.jpeg" alt="Readme Logo" width="80" height="80">
 
-<h3 align="center">title</h3>
+<h3 align="center">SKUP Ade Arya Bimantara</h3>
     <p align="center">
         Proyek ini dikembangkan menggunakan HTML dan CSS dan dipublikasikan di timur.ilearning.me, sebuah platform berbasis WordPress. Template dan desainnya disesuaikan agar mendukung tampilan portfolio yang profesional, dengan penyesuaian CSS untuk meningkatkan estetika dan keterbacaan.
     </p>
