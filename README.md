@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
-<!-- SKUP PROJECT LOGO -->
+<!-- skup-ade-universitas-raharja -->
 <br />
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adearya/skup-ade-universitas-raharja/main/raw/images/readme_logo.jpeg" alt="Readme Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/adearya/skup-ade-universitas-raharja/HEAD/raw/images/github_user_logo.jpeg" alt="Github User Logo" width="80" height="80">
 
-<h3 align="center">SKUP Ade Arya Bimantara</h3>
+<h3 align="center">SKUP - Ade Arya Bimantara</h3>
     <p align="center">
-        Proyek ini dikembangkan menggunakan HTML dan CSS dan dipublikasikan di timur.ilearning.me, sebuah platform berbasis WordPress. Template dan desainnya disesuaikan agar mendukung tampilan portfolio yang profesional, dengan penyesuaian CSS untuk meningkatkan estetika dan keterbacaan.
+        I created this project to document and showcase my learning experiences and projects during my internship, providing a structured portfolio for academic and professional purposes.
     </p>
 </div>
 
@@ -35,70 +35,67 @@
     </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-![App Screenshot](https://raw.githubusercontent.com/adearya/skup-ade-universitas-raharja/main/raw/images/output.png)
+![App Screenshot](https://raw.githubusercontent.com/adearya/skup-ade-universitas-raharja/HEAD/raw/images/desktop_screenshot.png)
+
+<p align="center">
+    This project serves as an online portfolio to showcase my academic journey, internship projects, and personal reflections. The WordPress-based structure allows for easy content management and updates.
+</p>
 
 ### Built With
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) <br />
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) <br />
+<!-- add_built_with -->
 
-<div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    </a>
-</div>
-
-<div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    </a>
-</div>
 
 ## Getting Started
 
-<ol>
-    <li>
-        Akses Website: Kunjungi timur.ilearning.me untuk melihat portfolio secara langsung.
-    </li>
-    <li>
-        Kustomisasi: Jika ingin menyesuaikan tampilan, edit file CSS dan HTML melalui dashboard WordPress.
-    </li>
-    <li>
-        Update Konten: Gunakan editor WordPress untuk menambahkan pencapaian baru atau memperbarui informasi portfolio.
-    </li>
-</ol>
+<p>
+    Users can explore internship projects, learning experiences, and portfolio documentation in a structured and visually appealing WordPress website.
+</p>
 
 ### Prerequisites
+<p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
-<div>
-    <ol>
-        <li>
-            <span>You must have timur.ilearning.me account</span>
-            <a href="https://timur.ilearning.me/wp-admin">
-                <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Wordpress" />
-            </a>
-        </li>
-    </ol>
-</div>
+<ul>
+    <li>timur.learning.me account</li>
+    <!-- add_prerequisites -->
+</ul>
 
 ### Installation
+<p>Follow these steps to install and configure the project on your system. The installation process is designed to be straightforward for both beginners and experienced users.</p>
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/adearya/skup-ade-universitas-raharja.git
-   ```
-2. Change directory
-   ```sh
-   cd skup-ade-universitas-raharja/
-   ```
+Clone the repo
+```sh
+git clone https://github.com/adearya/skup-ade-universitas-raharja.git
+```
+Change directory
+```sh
+cd skup-ade-universitas-raharja/
+```
+<!-- add_installation -->
+
 
 ## Usage
 
-1. Copy to timur.ilearning.me/posts
+<p>Once the installation is complete, refer to this section for basic usage instructions. Make sure all prerequisites are met before running the application.</p>
 
-2. Publish and Enjoy
+
+You can copy all the contents of the html file and publish
+
+Open a browser to see the output
+```sh
+https://timur.learning.me/<post>
+```
+<!-- add_usage -->
+
 
 ## Contact
+
+<p>If you have any questions, encounter any issues, or would like to contribute to this project, feel free to reach out through the contact information below</p>
+
 <div>
     <a href="https://linkedin.com/in/ade-arya-bimantara">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -119,5 +116,12 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
 </div>
+
+<br />
+<br />
+
+<p align="center">Thanks for checking out this Trash Project XD</p>
+
+<br />
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
