@@ -45,8 +45,8 @@
 </p>
 
 ### Built With
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) <br />
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) <br />
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge) <br />
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge) <br />
 <!-- add_built_with -->
 
 
